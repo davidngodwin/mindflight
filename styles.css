@@ -1,0 +1,12 @@
+:root { font-family: system-ui, sans-serif; background: #eef2f7; color: #111; }
+.wrap { max-width: 700px; margin: 0 auto; padding: 20px; background: #fff;
+  border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,.1);}
+h1 { margin-top: 0; color: #005bbb; }
+.lead { margin-bottom: 20px; color: #444; }
+button { margin: 6px; padding: 10px 16px; border-radius: 6px; border: 0; cursor: pointer;
+  background: #005bbb; color: #fff; font-size: 1rem; }
+button:hover { background: #003f88; }
+ul { list-style: none; padding: 0; }
+ul li { margin-bottom: 8px; }
+a { color: #005bbb; text-decoration: none; }
+a:hover { text-decoration: underline; }
